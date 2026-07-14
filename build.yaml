@@ -15,3 +15,4 @@
 include:
   - board: mikoto@7.2//zmk
     shield: mininovaii
+    artifact-name: mininovaii_mikoto_7.2
