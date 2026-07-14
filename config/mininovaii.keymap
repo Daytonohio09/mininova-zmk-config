@@ -58,7 +58,7 @@
         };
         zed_ROW: zed_ROW {
             compatible = "zmk,behavior-macro";
-            #binding-cells = <1>;
+            #binding-cells = <0>;
             bindings
                 = <&macro_tap &kp ENTER &kp LS(R) &kp LS(O) &kp LS(W) &kp SPACE &kp COLON>
                 ;
